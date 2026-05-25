@@ -1,0 +1,10 @@
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.csproj.AssemblyReference.cache
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.AssemblyInfoInputs.cache
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.AssemblyInfo.cs
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.csproj.CoreCompileInputs.cache
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.RazorAssemblyInfo.cache
+C:\Users\Bhautik M Ranpara\source\repos\Practical-18\Practical-18\obj\Debug\net10.0\Practical-18.RazorAssemblyInfo.cs

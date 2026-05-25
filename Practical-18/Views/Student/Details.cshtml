@@ -1,0 +1,25 @@
+﻿@model Practical_18.Models.Entities.Student
+<h2>Student Details</h2>
+
+<div>
+    <p>
+        <strong>Id:</strong>@Model.Id
+    </p>
+    <p>
+        <strong>First Name:</strong>@Model.FirstName
+    </p>
+    <p>
+        <strong>Last Name:</strong>@Model.LastName
+    </p>
+    <p>
+        <strong>Age:</strong>@Model.Age
+    </p>
+    <p>
+        <strong>Address:</strong>@Model.Address
+    </p>
+    <p>
+        <strong>Mobile:</strong>@Model.Mobile
+    </p>
+</div>
+
+<a asp-action="Index">Back To List</a>

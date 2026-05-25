@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\practical-18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\practical-18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\mappings\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\mappings\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\repository\\implement\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\implement\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\repository\\implement\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\implement\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\repository\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\models\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\models\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\models\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\models\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practical-18.csproj",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj",
+              "RelativeDocumentMoniker": "Practical-18\\Practical-18.csproj",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj",
+              "RelativeToolTip": "Practical-18\\Practical-18.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T19:06:00.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical-18\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\appsettings.json",
+              "RelativeToolTip": "Practical-18\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-24T18:32:59.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Program.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Program.cs",
+              "RelativeToolTip": "Practical-18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:18:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "Practical-18\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T18:18:14.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Practical-18\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T18:16:51.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Practical-18\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T18:06:11.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Practical-18\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAtwCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:49:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Mappings\\StudentMapping.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Mappings\\StudentMapping.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Mappings\\StudentMapping.cs",
+              "RelativeToolTip": "Practical-18\\Mappings\\StudentMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:47:12.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Practical-18\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T18:09:17.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Practical-18\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:59:48.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Repository\\Implement\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\StudentRepo.cs",
+              "RelativeToolTip": "Practical-18\\Repository\\Implement\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:33:13.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "RelativeToolTip": "Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:20:24.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "RelativeToolTip": "Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:16:48.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Practical-18\\Models\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:05:00.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:58:44.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
+              "RelativeToolTip": "Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:58:50.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

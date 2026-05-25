@@ -1,0 +1,44 @@
+﻿@model Practical_18.Models.DTOs.StudentCreateDTO
+
+<h2>Create Student</h2>
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label>First Name</label>
+        <input asp-for="FirstName" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Last Name</label>
+        <input asp-for="LastName" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Age</label>
+        <input asp-for="Age" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Address</label>
+        <input asp-for="Address" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Mobile</label>
+        <input asp-for="Mobile" />
+    </div>
+
+    <br />
+
+    <button type="submit">Save</button>
+
+</form>
