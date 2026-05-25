@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj": {}
+    "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Practical-18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj": {
+    "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Practical-18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj",
+        "projectUniqueName": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Practical-18.csproj",
         "projectName": "Practical-18",
-        "projectPath": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj",
-        "packagesPath": "C:\\Users\\Bhautik M Ranpara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\obj\\",
+        "projectPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Practical-18.csproj",
+        "packagesPath": "C:\\Users\\bhautik.ranpara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bhautik M Ranpara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bhautik.ranpara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -52,7 +53,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[16.1.1, )"
+              "version": "[14.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -98,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

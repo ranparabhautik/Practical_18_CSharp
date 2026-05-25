@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ActionConstraints;
 using Practical_18.Models.DTOs;
 using Practical_18.Models.Entities;
 using Practical_18.Repository.Interface;
@@ -90,7 +89,7 @@ namespace Practical_18.Controllers
                 return NotFound();
             }
 
-            await _repo.Delete(student);
+            await _repo.Delete(id);
 
             return RedirectToAction("Index");
         }

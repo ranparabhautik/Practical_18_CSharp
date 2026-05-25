@@ -70,7 +70,7 @@ namespace Practical_18.Controllers
             {
                 return NotFound();
             }
-            await _repo.Delete(student);
+            await _repo.Delete(id);
             return Ok();
         }
     }

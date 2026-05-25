@@ -1,69 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\",
+  "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\practical-18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\practical-18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\mappings\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\mappings\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\repository\\implement\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\implement\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\repository\\implement\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\implement\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\repository\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\repository\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\repository\\implement\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\implement\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\repository\\implement\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\implement\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\repository\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\repository\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\mappings\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\mappings\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\practical-18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\practical-18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\models\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\models\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\models\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik m ranpara\\source\\repos\\practical-18\\practical-18\\models\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical_18_csharp\\practical-18\\models\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE9E779C-954F-2119-3AD5-39F9CDC091E6}|Practical-18\\Practical-18.csproj|solutionrelative:practical-18\\models\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,77 +78,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Practical-18.csproj",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj",
-              "RelativeDocumentMoniker": "Practical-18\\Practical-18.csproj",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Practical-18.csproj",
-              "RelativeToolTip": "Practical-18\\Practical-18.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-24T19:06:00.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\appsettings.json",
-              "RelativeDocumentMoniker": "Practical-18\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\appsettings.json",
-              "RelativeToolTip": "Practical-18\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-24T18:32:59.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Program.cs",
-              "RelativeDocumentMoniker": "Practical-18\\Program.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Program.cs",
-              "RelativeToolTip": "Practical-18\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:18:46.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Update.cshtml",
-              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Update.cshtml",
-              "RelativeToolTip": "Practical-18\\Views\\Student\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T18:18:14.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Details.cshtml",
-              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Details.cshtml",
-              "RelativeToolTip": "Practical-18\\Views\\Student\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T18:16:51.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Practical-18\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwCsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -152,35 +94,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Practical-18\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Practical-18\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAtwCoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:49:53.322Z"
+              "WhenOpened": "2026-05-24T17:49:53.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "RelativeToolTip": "Practical-18\\Repository\\Implement\\GenericRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:20:24.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "StudentMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Mappings\\StudentMapping.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Mappings\\StudentMapping.cs",
               "RelativeDocumentMoniker": "Practical-18\\Mappings\\StudentMapping.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Mappings\\StudentMapping.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Mappings\\StudentMapping.cs",
               "RelativeToolTip": "Practical-18\\Mappings\\StudentMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T17:47:12.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "Practical-18\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -188,59 +144,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentAPIController.cs",
-              "RelativeDocumentMoniker": "Practical-18\\Controllers\\StudentAPIController.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Controllers\\StudentAPIController.cs",
-              "RelativeToolTip": "Practical-18\\Controllers\\StudentAPIController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAwwEkAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "RelativeToolTip": "Practical-18\\Repository\\Interface\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:59:48.99Z"
+              "WhenOpened": "2026-05-24T17:16:48.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Practical-18\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:59:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Interface\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Repository\\Interface\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Interface\\IStudentRepo.cs",
+              "RelativeToolTip": "Practical-18\\Repository\\Interface\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:20:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StudentRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Implement\\StudentRepo.cs",
               "RelativeDocumentMoniker": "Practical-18\\Repository\\Implement\\StudentRepo.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Repository\\Implement\\StudentRepo.cs",
               "RelativeToolTip": "Practical-18\\Repository\\Implement\\StudentRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:33:13.042Z"
+              "WhenOpened": "2026-05-24T17:33:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Practical-18\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T18:16:51.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GenericRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\GenericRepo.cs",
-              "RelativeDocumentMoniker": "Practical-18\\Repository\\Implement\\GenericRepo.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Implement\\GenericRepo.cs",
-              "RelativeToolTip": "Practical-18\\Repository\\Implement\\GenericRepo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:20:24.134Z"
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "Practical-18\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "Practical-18\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T18:18:14.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IGenericRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Interface\\IGenericRepo.cs",
-              "RelativeDocumentMoniker": "Practical-18\\Repository\\Interface\\IGenericRepo.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Repository\\Interface\\IGenericRepo.cs",
-              "RelativeToolTip": "Practical-18\\Repository\\Interface\\IGenericRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Program.cs",
+              "RelativeDocumentMoniker": "Practical-18\\Program.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Program.cs",
+              "RelativeToolTip": "Practical-18\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:16:48.118Z"
+              "WhenOpened": "2026-05-24T18:18:46.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical-18\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\appsettings.json",
+              "RelativeToolTip": "Practical-18\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-24T18:32:59.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Practical-18.csproj",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Practical-18.csproj",
+              "RelativeDocumentMoniker": "Practical-18\\Practical-18.csproj",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Practical-18.csproj",
+              "RelativeToolTip": "Practical-18\\Practical-18.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T19:06:00.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Models\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Practical-18\\Models\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Models\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Practical-18\\Models\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "StudentUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
               "RelativeDocumentMoniker": "Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
               "RelativeToolTip": "Practical-18\\Models\\DTOs\\StudentUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,11 +282,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "StudentCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
               "RelativeDocumentMoniker": "Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Bhautik M Ranpara\\source\\repos\\Practical-18\\Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical_18_CSharp\\Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
               "RelativeToolTip": "Practical-18\\Models\\DTOs\\StudentCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

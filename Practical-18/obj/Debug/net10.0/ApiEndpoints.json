@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Practical_18.Controllers.StudentAPIController",
+    "Method": "GetAll",
+    "RelativePath": "api/StudentAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practical_18.Controllers.StudentAPIController",
+    "Method": "Create",
+    "RelativePath": "api/StudentAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentVM",
+        "Type": "Practical_18.Models.DTOs.StudentCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practical_18.Controllers.StudentAPIController",
+    "Method": "GetById",
+    "RelativePath": "api/StudentAPI/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practical_18.Controllers.StudentAPIController",
+    "Method": "Update",
+    "RelativePath": "api/StudentAPI/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Practical_18.Models.DTOs.StudentUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practical_18.Controllers.StudentAPIController",
+    "Method": "Delete",
+    "RelativePath": "api/StudentAPI/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

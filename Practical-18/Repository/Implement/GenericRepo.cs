@@ -19,9 +19,9 @@ namespace Practical_18.Repository.Implement
             await _context.SaveChangesAsync();
         }
 
-        public async Task Delete(T entity)
+        public async Task Delete(int id)
         {
-            var existing = await _dbSet.FindAsync(entity);
+            var existing = await _dbSet.FindAsync(id);
             _dbSet.Remove(existing);
             await _context.SaveChangesAsync();
         }

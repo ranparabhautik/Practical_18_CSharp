@@ -9,8 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("Myconn")));
-builder.Services.AddAutoMapper(typeof(StudentMapping));
+builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddAutoMapper(typeof(StudentMapping).Assembly);
+
 builder.Services.AddScoped(typeof(IGenericRepo<>),typeof(GenericRepo<>));
 builder.Services.AddScoped<IStudentRepo,StudentRepo>();
 
